@@ -1,0 +1,18 @@
+## j4ltejx-user 10 QP1A.190711.020 J400FXXU9CUJ3 release-keys
+- Manufacturer: samsung
+- Platform: universal7570
+- Codename: j4lte
+- Brand: samsung
+- Flavor: j4ltejx-user
+- Release Version: 10
+- Id: QP1A.190711.020
+- Incremental: J400FXXU9CUJ3
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/j4ltejx/j4lte:10/QP1A.190711.020/J400FXXU9CUJ3:user/release-keys
+- OTA version: 
+- Branch: j4ltejx-user-10-QP1A.190711.020-J400FXXU9CUJ3-release-keys
+- Repo: samsung/j4lte
